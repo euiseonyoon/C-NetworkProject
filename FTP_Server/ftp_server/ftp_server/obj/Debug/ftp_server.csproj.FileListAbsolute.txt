@@ -1,0 +1,57 @@
+c:\users\lee\documents\visual studio 2015\Projects\ftp_server\ftp_server\bin\Debug\ftp_server.exe.config
+c:\users\lee\documents\visual studio 2015\Projects\ftp_server\ftp_server\bin\Debug\ftp_server.exe
+c:\users\lee\documents\visual studio 2015\Projects\ftp_server\ftp_server\bin\Debug\ftp_server.pdb
+c:\users\lee\documents\visual studio 2015\Projects\ftp_server\ftp_server\obj\Debug\ftp_server.csprojResolveAssemblyReference.cache
+c:\users\lee\documents\visual studio 2015\Projects\ftp_server\ftp_server\obj\Debug\ftp_server.Form1.resources
+c:\users\lee\documents\visual studio 2015\Projects\ftp_server\ftp_server\obj\Debug\ftp_server.Properties.Resources.resources
+c:\users\lee\documents\visual studio 2015\Projects\ftp_server\ftp_server\obj\Debug\ftp_server.csproj.GenerateResource.Cache
+c:\users\lee\documents\visual studio 2015\Projects\ftp_server\ftp_server\obj\Debug\ftp_server.exe
+c:\users\lee\documents\visual studio 2015\Projects\ftp_server\ftp_server\obj\Debug\ftp_server.pdb
+C:\Users\benja\Desktop\FTP\ftp_server\ftp_server\bin\Debug\ftp_server.exe.config
+C:\Users\benja\Desktop\FTP\ftp_server\ftp_server\obj\Debug\ftp_server.exe
+C:\Users\benja\Desktop\FTP\ftp_server\ftp_server\obj\Debug\ftp_server.pdb
+C:\Users\benja\Desktop\FTP\ftp_server\ftp_server\bin\Debug\ftp_server.exe
+C:\Users\benja\Desktop\FTP\ftp_server\ftp_server\bin\Debug\ftp_server.pdb
+C:\Users\benja\Desktop\FTP\ftp_server\ftp_server\obj\Debug\ftp_server.csprojResolveAssemblyReference.cache
+C:\Users\benja\Desktop\FTP\ftp_server\ftp_server\obj\Debug\ftp_server.Form1.resources
+C:\Users\benja\Desktop\FTP\ftp_server\ftp_server\obj\Debug\ftp_server.Properties.Resources.resources
+C:\Users\benja\Desktop\FTP\ftp_server\ftp_server\obj\Debug\ftp_server.csproj.GenerateResource.Cache
+C:\Users\Lee\Desktop\1817_23112016\ftp_server\ftp_server\bin\Debug\ftp_server.exe.config
+C:\Users\Lee\Desktop\1817_23112016\ftp_server\ftp_server\obj\Debug\ftp_server.exe
+C:\Users\Lee\Desktop\1817_23112016\ftp_server\ftp_server\obj\Debug\ftp_server.pdb
+C:\Users\Lee\Desktop\1817_23112016\ftp_server\ftp_server\bin\Debug\ftp_server.exe
+C:\Users\Lee\Desktop\1817_23112016\ftp_server\ftp_server\bin\Debug\ftp_server.pdb
+C:\Users\Lee\Desktop\1817_23112016\ftp_server\ftp_server\obj\Debug\ftp_server.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Desktop\1817_23112016\ftp_server\ftp_server\obj\Debug\ftp_server.Form1.resources
+C:\Users\Lee\Desktop\1817_23112016\ftp_server\ftp_server\obj\Debug\ftp_server.Properties.Resources.resources
+C:\Users\Lee\Desktop\1817_23112016\ftp_server\ftp_server\obj\Debug\ftp_server.csproj.GenerateResource.Cache
+C:\Users\Lee\Desktop\Nov23_2337_Server\ftp_server\ftp_server\bin\Debug\ftp_server.exe.config
+C:\Users\Lee\Desktop\Nov23_2337_Server\ftp_server\ftp_server\obj\Debug\ftp_server.exe
+C:\Users\Lee\Desktop\Nov23_2337_Server\ftp_server\ftp_server\obj\Debug\ftp_server.pdb
+C:\Users\Lee\Desktop\Nov23_2337_Server\ftp_server\ftp_server\bin\Debug\ftp_server.exe
+C:\Users\Lee\Desktop\Nov23_2337_Server\ftp_server\ftp_server\bin\Debug\ftp_server.pdb
+C:\Users\Lee\Desktop\Nov23_2337_Server\ftp_server\ftp_server\obj\Debug\ftp_server.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Desktop\Nov23_2337_Server\ftp_server\ftp_server\obj\Debug\ftp_server.Form1.resources
+C:\Users\Lee\Desktop\Nov23_2337_Server\ftp_server\ftp_server\obj\Debug\ftp_server.Properties.Resources.resources
+C:\Users\Lee\Desktop\Nov23_2337_Server\ftp_server\ftp_server\obj\Debug\ftp_server.csproj.GenerateResource.Cache
+C:\Users\benja\Desktop\FTP\FTP_Server\ftp_server\ftp_server\bin\Debug\ftp_server.exe.config
+C:\Users\benja\Desktop\FTP\FTP_Server\ftp_server\ftp_server\obj\Debug\ftp_server.exe
+C:\Users\benja\Desktop\FTP\FTP_Server\ftp_server\ftp_server\obj\Debug\ftp_server.pdb
+C:\Users\benja\Desktop\FTP\FTP_Server\ftp_server\ftp_server\bin\Debug\ftp_server.exe
+C:\Users\benja\Desktop\FTP\FTP_Server\ftp_server\ftp_server\bin\Debug\ftp_server.pdb
+C:\Users\benja\Desktop\FTP\FTP_Server\ftp_server\ftp_server\obj\Debug\ftp_server.csprojResolveAssemblyReference.cache
+C:\Users\benja\Desktop\FTP\FTP_Server\ftp_server\ftp_server\obj\Debug\ftp_server.Form1.resources
+C:\Users\benja\Desktop\FTP\FTP_Server\ftp_server\ftp_server\obj\Debug\ftp_server.Properties.Resources.resources
+C:\Users\benja\Desktop\FTP\FTP_Server\ftp_server\ftp_server\obj\Debug\ftp_server.csproj.GenerateResource.Cache
+C:\Users\Lee\Desktop\FTP_Server\ftp_server\ftp_server\bin\Debug\ftp_server.exe.config
+C:\Users\Lee\Desktop\FTP_Server\ftp_server\ftp_server\obj\Debug\ftp_server.exe
+C:\Users\Lee\Desktop\FTP_Server\ftp_server\ftp_server\obj\Debug\ftp_server.pdb
+C:\Users\Lee\Desktop\FTP_Server\ftp_server\ftp_server\bin\Debug\ftp_server.exe
+C:\Users\Lee\Desktop\FTP_Server\ftp_server\ftp_server\bin\Debug\ftp_server.pdb
+C:\Users\Lee\Desktop\FTP_Server\ftp_server\ftp_server\obj\Debug\ftp_server.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Desktop\FTP_Server\ftp_server\ftp_server\obj\Debug\ftp_server.Form1.resources
+C:\Users\Lee\Desktop\FTP_Server\ftp_server\ftp_server\obj\Debug\ftp_server.Properties.Resources.resources
+C:\Users\Lee\Desktop\FTP_Server\ftp_server\ftp_server\obj\Debug\ftp_server.csproj.GenerateResource.Cache
+C:\Users\Lee\Desktop\2016 Fall\Network\FTP_Server\ftp_server\ftp_server\bin\Debug\ftp_server.exe.config
+C:\Users\Lee\Desktop\2016 Fall\Network\FTP_Server\ftp_server\ftp_server\obj\Debug\ftp_server.exe
+C:\Users\Lee\Desktop\2016 Fall\Network\FTP_Server\ftp_server\ftp_server\obj\Debug\ftp_server.pdb

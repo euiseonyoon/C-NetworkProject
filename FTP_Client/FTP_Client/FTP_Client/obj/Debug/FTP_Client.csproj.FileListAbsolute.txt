@@ -1,0 +1,50 @@
+c:\users\benja\documents\visual studio 2015\Projects\FTP_Client\FTP_Client\bin\Debug\FTP_Client.exe.config
+c:\users\benja\documents\visual studio 2015\Projects\FTP_Client\FTP_Client\bin\Debug\FTP_Client.exe
+c:\users\benja\documents\visual studio 2015\Projects\FTP_Client\FTP_Client\bin\Debug\FTP_Client.pdb
+c:\users\benja\documents\visual studio 2015\Projects\FTP_Client\FTP_Client\obj\Debug\FTP_Client.csprojResolveAssemblyReference.cache
+c:\users\benja\documents\visual studio 2015\Projects\FTP_Client\FTP_Client\obj\Debug\FTP_Client.Form1.resources
+c:\users\benja\documents\visual studio 2015\Projects\FTP_Client\FTP_Client\obj\Debug\FTP_Client.Properties.Resources.resources
+c:\users\benja\documents\visual studio 2015\Projects\FTP_Client\FTP_Client\obj\Debug\FTP_Client.csproj.GenerateResource.Cache
+c:\users\benja\documents\visual studio 2015\Projects\FTP_Client\FTP_Client\obj\Debug\FTP_Client.exe
+c:\users\benja\documents\visual studio 2015\Projects\FTP_Client\FTP_Client\obj\Debug\FTP_Client.pdb
+C:\Users\benja\documents\visual studio 2015\Projects\FTP_Client\FTP_Client\obj\Debug\FTP_Client.ConnectionForm.resources
+C:\Users\Lee\Downloads\FTP_Client\FTP_Client\FTP_Client\bin\Debug\FTP_Client.exe.config
+C:\Users\Lee\Downloads\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.pdb
+C:\Users\Lee\Downloads\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Downloads\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.ConnectionForm.resources
+C:\Users\Lee\Downloads\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.Form1.resources
+C:\Users\Lee\Downloads\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.csproj.GenerateResource.Cache
+C:\Users\Lee\Downloads\FTP_Client\FTP_Client\FTP_Client\bin\Debug\FTP_Client.exe
+C:\Users\Lee\Downloads\FTP_Client\FTP_Client\FTP_Client\bin\Debug\FTP_Client.pdb
+C:\Users\Lee\Downloads\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.Properties.Resources.resources
+C:\Users\Lee\Downloads\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.exe
+C:\Users\Lee\Downloads\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.makeNewDirectory.resources
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\FTP_Client\FTP_Client\bin\Debug\FTP_Client.exe.config
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\FTP_Client\FTP_Client\obj\Debug\FTP_Client.exe
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\FTP_Client\FTP_Client\obj\Debug\FTP_Client.pdb
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\FTP_Client\FTP_Client\bin\Debug\FTP_Client.exe
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\FTP_Client\FTP_Client\bin\Debug\FTP_Client.pdb
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\FTP_Client\FTP_Client\obj\Debug\FTP_Client.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\FTP_Client\FTP_Client\obj\Debug\FTP_Client.ConnectionForm.resources
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\FTP_Client\FTP_Client\obj\Debug\FTP_Client.Form1.resources
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\FTP_Client\FTP_Client\obj\Debug\FTP_Client.makeNewDirectory.resources
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\FTP_Client\FTP_Client\obj\Debug\FTP_Client.Properties.Resources.resources
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\FTP_Client\FTP_Client\obj\Debug\FTP_Client.csproj.GenerateResource.Cache
+C:\Users\benja\Desktop\FTP\FTP_Client\FTP_Client\FTP_Client\bin\Debug\FTP_Client.exe.config
+C:\Users\benja\Desktop\FTP\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.exe
+C:\Users\benja\Desktop\FTP\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.pdb
+C:\Users\benja\Desktop\FTP\FTP_Client\FTP_Client\FTP_Client\bin\Debug\FTP_Client.exe
+C:\Users\benja\Desktop\FTP\FTP_Client\FTP_Client\FTP_Client\bin\Debug\FTP_Client.pdb
+C:\Users\benja\Desktop\FTP\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.csprojResolveAssemblyReference.cache
+C:\Users\benja\Desktop\FTP\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.ConnectionForm.resources
+C:\Users\benja\Desktop\FTP\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.Form1.resources
+C:\Users\benja\Desktop\FTP\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.makeNewDirectory.resources
+C:\Users\benja\Desktop\FTP\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.Properties.Resources.resources
+C:\Users\benja\Desktop\FTP\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.csproj.GenerateResource.Cache
+C:\Users\benja\Desktop\FTP\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.Progress.resources
+C:\Users\Lee\Desktop\FTP_Client\FTP_Client\FTP_Client\bin\Debug\FTP_Client.exe.config
+C:\Users\Lee\Desktop\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.exe
+C:\Users\Lee\Desktop\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.pdb
+C:\Users\Lee\Desktop\2016 Fall\Network\FTP_Client\FTP_Client\FTP_Client\bin\Debug\FTP_Client.exe.config
+C:\Users\Lee\Desktop\2016 Fall\Network\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.exe
+C:\Users\Lee\Desktop\2016 Fall\Network\FTP_Client\FTP_Client\FTP_Client\obj\Debug\FTP_Client.pdb
